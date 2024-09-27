@@ -8,6 +8,7 @@ To begin, install the required libraries for data manipulation, visualization, a
 
 ## Data Loading and Exploratory Analysis
 The dataset for this project can be found here =>  https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 It contains 284,807 transactions, including 31 features. The target column Class indicates whether the transaction is fraudulent (1) or not (0).
 
 ## Data Cleaning
