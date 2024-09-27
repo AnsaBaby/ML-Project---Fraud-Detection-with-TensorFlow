@@ -4,10 +4,11 @@ Fraud detection in financial transactions is critical in the banking and finance
 This article walks you through setting up the environment, loading the dataset, performing exploratory data analysis, cleaning the data, building and training a neural network model, and evaluating its performance.
 
 ### Environment Setup
-To begin, install the required libraries to handle data manipulation, visualization, and machine learning model creation.
+To begin, install the required libraries for data manipulation, visualization, and machine learning model creation.
 
 ## Data Loading and Exploratory Analysis
-The dataset for this project can be found here. It contains 284,807 transactions, including 31 features. The target column Class indicates whether the transaction is fraudulent (1) or not (0).
+The dataset for this project can be found here =>  https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+It contains 284,807 transactions, including 31 features. The target column Class indicates whether the transaction is fraudulent (1) or not (0).
 
 ## Data Cleaning
 Check for missing values and duplicates in the dataset. Since there are no missing values, I remove the duplicate entries.
